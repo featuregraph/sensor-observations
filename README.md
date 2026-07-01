@@ -83,7 +83,7 @@ The library is designed around simple physical systems where the true hidden sta
 
 Current benchmark direction:
 
-- noisy volume measurements
+- noisy physical measurements
 - recursive belief updates
 - future sensor fault simulation
 
